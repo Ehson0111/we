@@ -467,7 +467,9 @@ fun CatalogueScreen(
                             selectedFilters = selectedFilters.toMutableSet()
                             isBottomSheetOpen = !isBottomSheetOpen
                         }
-                ) {}
+                ) {
+
+                }
             }
 
         }
